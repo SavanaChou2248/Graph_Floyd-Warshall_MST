@@ -1,9 +1,4 @@
 /*
-Savana Chou
-2428859
-sachou@chapman.edu
-CPSC350-02
-Programming Assignment 6: Spanning the Gamut
 
 Brief Overview:
 This class is responsible for processing input files and running the main logic of the program. It reads a square matrix of weights from the input file, constructs a weighted graph, computes its Minimum Spanning Tree (MST), and writes the MST details to an output file.
