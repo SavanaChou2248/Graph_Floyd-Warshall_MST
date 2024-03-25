@@ -1,9 +1,4 @@
 /*
-Savana Chou
-2428859
-sachou@chapman.edu
-CPSC350-02
-Programming Assignment 6: Spanning the Gamut
 
 Brief Overview:
 This class, WGraph, represents a weighted graph and provides functionality for managing edges, computing the transitive closure using Floyd-Warshall algorithm, calculating the cheapest cost between vertices, and finding the Minimum Spanning Tree (MST) using Prim's algorithm. 
