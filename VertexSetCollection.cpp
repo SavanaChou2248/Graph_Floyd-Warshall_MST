@@ -1,9 +1,4 @@
 /*
-Savana Chou
-2428859
-sachou@chapman.edu
-CPSC350-02
-Programming Assignment 6: Spanning the Gamut
 
 Brief Overview:
 This class represents a collection of disjoint sets of vertices. It is used in the context of a graph-related programming assignment to manage sets of vertices.
