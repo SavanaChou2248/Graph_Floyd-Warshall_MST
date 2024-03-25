@@ -1,11 +1,3 @@
-/*
-Savana Chou
-2428859
-sachou@chapman.edu
-CPSC350-02
-Programming Assignment 6: Spanning the Gamut
-*/
-
 #ifndef WGraph_H
 #define WGraph_H
 
